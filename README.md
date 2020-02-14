@@ -1,6 +1,6 @@
-**me:** Hi everyone, my name is Franco and I'm addicted to colorschemes
+# Forked from flazz/vim-colorschemes
 
-**everyone else:** *Hi Franco*
+* Forked to test, use and (hopefully) return the favor
 
 Vim colorschemes
 ================
